@@ -1,0 +1,16 @@
+{
+  "version": "0.10.1",
+  "platform": "Windows x64",
+  "status": "functional candidate",
+  "executableBytes": 275968,
+  "sha256": "B1B5B5D0E5630CD9DBD306A7A34A8BFDB2653BA9011222464AD248F1BC1063BB",
+  "ctestGroups": 8,
+  "ctestAssertions": 350,
+  "desktopChecks": 79,
+  "resourceChecksComplete": true,
+  "configurationPreserved": true,
+  "fullPerformanceRevalidated": false,
+  "historicalPerformanceVersion": "0.9.0",
+  "memoryTargetMet": false,
+  "fullV1DoDComplete": false
+}

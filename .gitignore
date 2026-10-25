@@ -1,0 +1,11 @@
+/.tools/
+build*/
+/dist/*
+!/dist/PrecisionHold.exe
+!/dist/release-manifest.json
+!/dist/SHA256SUMS.txt
+/拍摄计划-v2.1_1025-可编辑表格.docx
+~$*.docx
+/docs/
+/tests/
+/scripts/
